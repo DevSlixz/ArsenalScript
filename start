@@ -1,0 +1,6 @@
+-- # This script is made by Scuqan please don't steal it.
+if game.PlaceId == 286090429 then
+		loadstring(game:HttpGet(("https://raw.githubusercontent.com/DevSlixz/ArsenalScript/main/betaversion%3D1"), true))()
+
+
+	end
